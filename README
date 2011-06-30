@@ -1,0 +1,5 @@
+Hat Colour version 1.0
+
+A simple program in C following ISO 9899 Standard C's specifications demonstrating basic functionalities of GLIBC's getopt_long(3)
+
+Build and tested on Ubuntu 11.04 (GNU/Linux).
