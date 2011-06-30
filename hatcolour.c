@@ -49,7 +49,7 @@ int main(int argc, char **argv) {
 	if(do_help == 1) {
 		printf("Usage: %s [-a] [-n name] colour\n\n", argv[0]);
 
-		puts("Perform & demonstrate basic getopt_long(3) functionality\n\n");
+		puts("Perform & demonstrate basic getopt_long(3) functionality\n");
 
 		puts("  -a, --alice		make 'Alice' as the hat owner");
 		puts("  -n name, --name=name	specify hat owner's name");
@@ -66,7 +66,7 @@ int main(int argc, char **argv) {
 		puts("Hat Colour 1.0");
 		puts("Perform & demonstrate basic getopt_long(3) functionality\n");
 
-		puts("Copyright (C) 2007 Justin Bull");
+		puts("Copyright (C) 2011 Justin Bull");
 		puts("License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>");
 		puts("This is free software: you are free to change and redistribute it.");
 		puts("There is NO WARRANTY, to the extent permitted by law.");
